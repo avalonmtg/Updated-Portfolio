@@ -1,0 +1,60 @@
+
+	header {
+	    background: rgb(192, 173, 138);
+	    font-family: 'Courgette', cursive;
+	    overflow: auto;
+	    max-width: 100%;
+	    width: 100%;
+	    text-align: center;
+	    margin: 0px auto;
+        display: flex;
+	    border-color: rgb(122, 111, 90);
+        border-width: 0px 0px 6px 0px;
+        border-style: solid;
+	    align-items: center;
+    }
+    
+    .image-link {
+        height: 50px;
+        width: 50px;
+        align-items: center;
+        text-align: center;
+    }
+
+   
+    form {
+        margin: 40px auto;
+        height: 400px;
+        width: 100%;
+        max-width: 960px;
+        padding: 40px;
+        background-color: rgb(192, 173, 138);
+        border-color: rgb(122, 111, 90);
+        border-style: solid;
+        border-width: 2px;   
+        
+    }
+        
+    
+    .nav-link {
+        color: black
+    }
+
+       
+.img-responsive {
+    width: 400px;
+    height: 175px;
+}
+
+
+#footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    text-align: center;
+    background: rgb(192, 173, 138);
+    border-top: 8px solid rgb(122, 111, 90);
+    height: 50px;
+    width: 100%;
+    margin-top: 140px;
+}
