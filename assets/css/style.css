@@ -1,5 +1,9 @@
 
-	header {
+    body {
+        background-color: rgb(245, 226, 197);
+    }
+    
+    header {
 	    background: rgb(192, 173, 138);
 	    font-family: 'Courgette', cursive;
 	    overflow: auto;
@@ -35,11 +39,13 @@
         
     }
         
-    
     .nav-link {
         color: black
     }
-
+  
+   a {
+       color: black
+   }
        
 .img-responsive {
     width: 400px;
